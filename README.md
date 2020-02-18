@@ -12,11 +12,11 @@ A wallpaper changer app using UnSplash API for linux.
 
 1. On execute
   
-2. Retrieves Background Img Link \n
-    a. Call UnSplash API URL : 'https://api.unsplash.com/search/photos?              page='+PAGE_NUM+'&query='+QUERY_TERM+'&client_id='+self.client_id
+2. Retrieves Background Img Link <br>
+    a. Call UnSplash API URL : 'https://api.unsplash.com/search/photos?           page='+PAGE_NUM+'&query='+QUERY_TERM+'&client_id='+self.client_id <br>
     b. Extract Randomly Picked Img Link 
 
-3. Downloads Img using Img Link
+3. Downloads Img using Img Link <br>
     a. Using subprocess python library
        i. Uses "curl -o filename IMG_URL" to download image
     b. Using gio python library
