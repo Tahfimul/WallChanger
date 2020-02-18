@@ -18,6 +18,6 @@ A wallpaper changer app using UnSplash API for linux.
 
 3. Downloads Img using Img Link <br>
     a. Using subprocess python library <br>
-       i. Uses "curl -o filename IMG_URL" to download image <br>
+    &nbsp;i. Uses "curl -o filename IMG_URL" to download image <br>
     b. Using gio python library <br>
-       i. Sets background image
+    &nbsp;i. Sets background image
