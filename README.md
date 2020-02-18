@@ -11,9 +11,7 @@ A wallpaper changer app using UnSplash API for linux.
 # Here's how the app works:
 
 1. On execute
-    |
-    |
-   \ /
+  
 2. Retrieves Background Img Link
     -->Call UnSplash API URL : 'https://api.unsplash.com/search/photos?              page='+PAGE_NUM+'&query='+QUERY_TERM+'&client_id='+self.client_id
     -->Extract Randomly Picked Img Link 
