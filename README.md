@@ -1,14 +1,14 @@
 # WallChanger
 A wallpaper changer app using UnSplash API for linux.
 
-# To use the app:
+## To use the app:
 1. Get API key from UnSplash : https://api.unsplash.com/
 2. git clone this repository
 3. Make edits indicated in source code
 4. Execute python script using python3 
 5. Just like that a new wallpaper is installed on your machine!
 
-# Here's how the app works:
+## Here's how the app works:
 
 1. On execute
   
