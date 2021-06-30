@@ -1,5 +1,5 @@
 # WallChanger
-A chromecast-like wallpaper changer app using UnSplash API for linux.
+A chromecast-like wallpaper changer app using UnSplash API for GNome based linux distros that support GIO library.
 
 ## To use the app:
 1. Get API key from UnSplash : https://api.unsplash.com/
